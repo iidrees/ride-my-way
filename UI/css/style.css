@@ -124,3 +124,17 @@ header a:hover {
     height: 30px;
     border-radius: 20px;
 }
+
+.show-rides {
+    min-height: 400px;
+    min-width: 400px;
+    text-align: center;
+    color: #ffffff;
+    /* float: left; */
+}
+
+#rides {
+    min-height: 400px;
+    background: url('../img/bmw.png') no-repeat fixed center;
+    /* float: left; */
+}
